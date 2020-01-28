@@ -1,5 +1,5 @@
 using RankingDifference
 using Test
 
-@testset "" begin
+@testset "RankingDifference" begin
 end
