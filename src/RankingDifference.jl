@@ -1,0 +1,3 @@
+module RankingDifference
+
+end # module
