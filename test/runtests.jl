@@ -1,6 +1,6 @@
-using RankingDifference
+using RankingDifferences
 using Test
 
-@testset "RankingDifference" begin
+@testset "RankingDifferences" begin
     include("ranking.jl")
 end

@@ -1,4 +1,4 @@
-module RankingDifference
+module RankingDifferences
 
 export
     AbstractRanking,
