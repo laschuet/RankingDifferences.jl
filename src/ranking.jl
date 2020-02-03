@@ -1,5 +1,5 @@
 """
-    AbstractClustering
+    AbstractRanking
 
 Supertype for rankings.
 """
