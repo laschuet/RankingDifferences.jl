@@ -1,5 +1,7 @@
 module RankingDifferences
 
+using DifferencesBase
+
 export
     AbstractRanking,
     Ranking
