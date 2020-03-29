@@ -8,6 +8,14 @@
 
 Ranking and ranking difference models.
 
+## Installation
+
+Open a Julia REPL and enter
+
+```julia
+] add RankingDifferences
+```
+
 ## License
 
 RankingDifferences.jl is licensed under the [MIT License](./LICENSE.txt).
