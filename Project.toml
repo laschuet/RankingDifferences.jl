@@ -1,7 +1,7 @@
 name = "RankingDifferences"
 uuid = "1798185d-28e1-492f-bad0-0ffd3086b9ac"
 authors = ["Lars Schütz"]
-version = "0.1.0"
+version = "0.2.0"
 
 [deps]
 DifferencesBase = "f7c07657-0d0a-4d46-b086-01df223a7b4f"
